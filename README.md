@@ -1,6 +1,6 @@
 # Gradescope-Deadline-Tracker
 
-The project captures the upcoming deadlines on gradescope. deadline_tracker.py will scan through all courses and find things that are due in the next 7 days and save to tmp.txt. It runs once per day at 6am every morning. 11.exe is a software I bought elsewhere. It reads txt files and sends it to selected wechat friends. This is a crappy tool I wrote for myself, feel free to use it if you need. Please contact me if you need to use it for commercial purposes.
+The project captures the upcoming deadlines on gradescope. deadline_tracker.py will scan through all courses and find things that are due in the next 7 days and save to tmp.txt. It runs once per day at 6am every morning. 11.exe is a software I bought elsewhere. It reads txt files and sends it to selected wechat friends. This project a crappy tool I wrote for myself, feel free to use it if you need. Please contact me if you need to use it for commercial purposes.
 
 
 
