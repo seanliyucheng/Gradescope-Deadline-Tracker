@@ -187,7 +187,6 @@ def run_loop():
     #print(msg)
     with open(filename, "w") as f:
         f.write(msg)
-        print('once')
 
 scheduler = BlockingScheduler()
 scheduler.add_job(run_loop, 'cron', hour=6, minute=0)
