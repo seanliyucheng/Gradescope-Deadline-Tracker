@@ -89,8 +89,8 @@ def login(token):
     data = {
         'utf8': '\u2713',
         'authenticity_token': token,
-        'session[email]': 'seanlyc@berkeley.edu',
-        'session[password]': 'Seanliyucheng',
+        'session[email]': 'your_email_here',
+        'session[password]': 'your_password_here',
         'session[remember_me]': '0',
         'commit': 'Log In',
         'session[remember_me_sso]': '0'
