@@ -9,7 +9,9 @@ This project a crappy tool I wrote for myself, feel free to use it if you need. 
 Note: Make sure you substitute "your_email_here" with your email and "your_password_here" with your password. I'm also calculating the time based on Beijing time and my gradescope time as US West Coast time. 
 
 My environment: A server running windows but the tool works on both windows and mac platforms.
+
 Dependencies: If any issue occurs,
   pip install lxml
+  
   pip install pyOpenSSL
 
