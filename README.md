@@ -10,5 +10,5 @@ Note: Make sure you substitute "your_email_here" with your email and "your_passw
 
 My environment: A server running windows but the tool works on both windows and mac platforms.
 
-Dependencies: If any issue occurs, pip install lxml and pip install pyOpenSSL
+Dependencies: If any issue occurs, pip install lxml and pip install pyOpenSSL. If weird bugs come up when you install pyOpenSSL, try to pip install cryptography before trying again.
 
